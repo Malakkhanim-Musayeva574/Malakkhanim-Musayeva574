@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Malakkhanim Musayeva! 👋
+### Junior Data Analyst | Excel | SQL | Power BI | Statistics
 
-<!--
-**Malakkhanim-Musayeva574/Malakkhanim-Musayeva574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Data Analyst dedicated to uncovering insights and telling stories through data. Currently, I am enhancing my analytical skills through my studies at **Tor Vergata University of Rome** and the **University of Pavia**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools:
+- **Data Analysis:** SQL, Excel
+- **Visualization:** Power BI
+- **Statistics:** Hypothesis Testing, Descriptive & Inferential Statistics
+- **Languages:** Azerbaijani (Native), English (Professional), Italian (Learning)
+
+---
+
+---
+
+### 📫 Connect with me:
+- **Email:** [melekmusayeva574@gmail.com](mailto:melekmusayeva574@gmail.com)
+- **LinkedIn:** [linkedin.com/in/malakkhanim-musayeva](https://www.linkedin.com/in/malakkhanim-musayeva)
+
+---
+*"In God we trust, all others must bring data."* - W. Edwards Deming
